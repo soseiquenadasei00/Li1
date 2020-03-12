@@ -1,0 +1,8 @@
+-- filter ()
+--not (dar o false)
+--zip (0..) matriz -- indice das pistas
+-- "\" variaveis -> o que a funcao vai fazer com as variaveis (sem precisar escrever uma função)
+--matriz
+--map (funcao) [lista que a funcao anda]
+--foldr => (a->b->b) -> b -> t a -> b  
+--foldr (:) [] (1,2,3)
