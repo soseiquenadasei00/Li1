@@ -1,3 +1,5 @@
+--Não sei onde diabos foi para o resto 
+
 -- | Este módulo define funções comuns da Tarefa 6 do trabalho prático.
 module Tarefa6_2019li1g045 where
 
